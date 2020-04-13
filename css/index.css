@@ -1310,9 +1310,6 @@ body::after {
   margin: 0;
   padding-left: 1em;
 }
-.sidebar-ov > div + div {
-  border-top: 1px dashed var(--color-gray-300);
-}
 .sidebar-ov-author {
   width: 100%;
   text-align: center;
@@ -2511,6 +2508,9 @@ body::after {
   border: 0;
   width: 0;
   height: 0;
+}
+.post-share {
+  margin: 0 0 1rem;
 }
 .gallery img {
   margin-bottom: 10px;
