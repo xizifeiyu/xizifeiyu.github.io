@@ -1932,6 +1932,16 @@ body::after {
   border-top: 1px solid var(--color-gray-250);
   padding-top: 1rem;
 }
+.post-body p a {
+  color: #0593d3;
+  border-bottom: none;
+  border-bottom: 1px solid #0593d3;
+}
+.post-body p a:hover {
+  color: #fc6423;
+  border-bottom: none;
+  border-bottom: 1px solid #fc6423;
+}
 .highlight figcaption span:first-child::before {
   margin: 0 0.6rem 0 0;
   color: var(--color-gray-600);
@@ -3040,4 +3050,11 @@ html.nightmode {
     padding: 0.5rem 1rem;
     width: 100%;
   }
+}
+.post {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 25px;
+  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
