@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://xizifeiyu.github.io/2020/04/13/Github-Hexo/</loc>
+    <loc>http://xizifeiyu.github.io/friends/index.html</loc>
     
-    <lastmod>2020-04-13T13:11:22.771Z</lastmod>
+    <lastmod>2020-04-14T07:24:59.270Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://xizifeiyu.github.io/friends/index.html</loc>
+    <loc>http://xizifeiyu.github.io/tags/index.html</loc>
     
-    <lastmod>2020-04-10T09:22:55.690Z</lastmod>
+    <lastmod>2020-04-14T07:15:08.220Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xizifeiyu.github.io/2020/04/13/Github-Hexo/</loc>
+    
+    <lastmod>2020-04-14T06:46:36.085Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://xizifeiyu.github.io/categories/index.html</loc>
     
-    <lastmod>2020-04-09T13:43:22.375Z</lastmod>
+    <lastmod>2020-04-14T06:45:36.237Z</lastmod>
     
   </url>
   
